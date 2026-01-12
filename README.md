@@ -1,5 +1,5 @@
 # AI-Powered-Security-Automation-Agent
-This tool scans URLs using VirusTotal and returns a formal security report.
+This Agent scans URLs using VirusTotal and returns a formal security report.
 
 📋 Prerequisites
 Before running this notebook, please install the required versions of the LangChain packages:
